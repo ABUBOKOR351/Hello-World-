@@ -1,0 +1,9 @@
+
+
+.hello {
+    background: linear-gradient(#00000075 ,#000000a1), url("./mbr-10.jpg") no-repeat fixed;
+        background-size: auto, auto;
+    padding: 780px;
+    background-repeat: ;
+    background-size: cover;
+}
